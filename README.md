@@ -1,2 +1,2 @@
-# DestructingWithReactJS
+# DestructingReactJS
 Created with CodeSandbox
